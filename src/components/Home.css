@@ -30,8 +30,6 @@ img {
   display: flex;
   overflow: hidden;
   align-items: center;
-  background: url(https://images.unsplash.com/photo-1472120435266-53107fd0c44a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZXZlbmluZ3xlbnwwfHwwfHw%3D&w=1000&q=80) no-repeat center;
-  background-size: cover;
   flex-direction: column;
   gap: 20px;
 }
